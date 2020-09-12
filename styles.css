@@ -1,0 +1,136 @@
+body {
+    /* margin: 20px 20px; */
+    padding: 100px 100px;
+    background: hsl(0, 0%, 97%);
+    box-shadow: 0 15px 30px 20px rgba(0, 0, 0, 0.1);
+    background: top left url("./images/bg-pattern-top-desktop.svg") no-repeat, bottom right url("./images/bg-pattern-bottom-desktop.svg");
+    font-family: 'Spartan', sans-serif;
+}
+
+
+/* 
+HEADING */
+
+.round-b {
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.heading_big {
+    color: hsl(300, 43%, 22%);
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.heading_small {
+    color: #DCDCDC;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    padding-bottom: 10%;
+}
+
+
+/* REVIEW */
+
+.bbox2 {
+    margin-top: 20px;
+    opacity: 1.5px;
+}
+
+.small-box {
+    text-align: center;
+    color: hsl(300, 43%, 22%);
+    margin: 20px;
+    border: 1px hidden black;
+    border-radius: 10px;
+    background: hsl(303, 10%, 53%);
+    line-height: 2.2;
+    font-size: 13px;
+    width: 400px;
+    height: 40px;
+    padding: 4px 6px 4px 6px;
+}
+
+.onemoere-box {
+    position: relative;
+    left: 40px;
+    text-align: center;
+    color: hsl(300, 43%, 22%);
+    margin: 20px;
+    border: 1px hidden black;
+    border-radius: 10px;
+    background: hsl(303, 10%, 53%);
+    line-height: 2.2;
+    font-size: 13px;
+    width: 400px;
+    height: 40px;
+    padding: 4px 6px 4px 6px;
+}
+
+.twomore-box {
+    position: relative;
+    left: 80px;
+    text-align: center;
+    color: hsl(300, 43%, 22%);
+    margin: 20px;
+    border: 1px hidden black;
+    border-radius: 10px;
+    background: hsl(303, 10%, 53%);
+    line-height: 2.2;
+    font-size: 13px;
+    width: 400px;
+    height: 40px;
+    padding: 4px 6px 4px 6px;
+}
+
+
+/* CARDS */
+
+span {
+    color: hsl(333, 80%, 67%);
+    padding-left: 10px;
+}
+
+.space {
+    padding: 20px 60px 80px 60px;
+}
+
+.first-card {
+    border-radius: 23px;
+    background: hsl(300, 43%, 22%);
+    text-align: center;
+    width: 300px;
+    height: 200px;
+}
+
+.top-img {
+    width: 20%;
+    border-radius: 100%;
+    margin: 20px;
+    position: absolute;
+    float: right;
+}
+
+.text-change {
+    color: hsl(0, 0%, 100%);
+    padding: 25px 35px 5px 35px;
+}
+
+.text-change-big {
+    color: hsl(0, 0%, 100%);
+    font-size: 12px;
+    padding: 0 20px 70px 20px;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.one-last {
+    position: relative;
+    top: 30px;
+}
+
+.two-last {
+    position: relative;
+    top: 60px
+}

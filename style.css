@@ -1,0 +1,38 @@
+body {
+    margin: 20px auto;
+}
+
+.big_box {
+    position: relative;
+    display: inline;
+}
+
+
+/* HEADDING 10000+ */
+
+.box_sec {
+    width: 410px;
+}
+
+#heading_big {
+    color: hsl(300, 43%, 22%);
+    font-family: 'Spartan', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    padding-bottom: 10px;
+}
+
+#heading_small {
+    color: #DCDCDC;
+    font-size: 15px;
+    line-height: 1.5;
+    padding-bottom: 25px;
+}
+
+
+/* REVIEW STARS */
+
+.stars {
+    position: relative;
+    display: inline;
+}
